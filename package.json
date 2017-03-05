@@ -1,0 +1,11 @@
+{
+    "name": "chai",
+    "version": "0.1.0",
+    "description": "practice ECMASCript2015",
+    "scripts": {
+        "start": "node ./main.js"
+    },
+    "author": "turunco",
+    "license": "ISC",
+    "devDependencies": {}
+}
